@@ -38,3 +38,28 @@ Here are some extra resources:
 - [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 - [Async / await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
 - [.JSON()](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+
+
+Plan
+
+Fetch API data to look at what receipes is the JSON data (done)
+Then decide how we want to display it (done)
+Write the code for fetch request (done)
+Write the code for basic HTML display of recipe in browser (done)
+Write the code to get the label and recipe out of the JSON (done)
+Write the code to add the label and recipe to the browser (done)
+Write the code to include the picture of the recipe (done)
+Style our page using CSS 
+
+
+*IMPORTANT*
+API key data so we can get a URL to use in our fetch requests
+Application ID
+4d13f87d
+
+This is the application ID, you should send with each API request.
+
+Application Keys
+7e5560356e6651232899c89c8638a2d4	—
+These are application keys used to authenticate requests.
+********
