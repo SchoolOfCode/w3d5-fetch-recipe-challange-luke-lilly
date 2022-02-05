@@ -1,0 +1,19 @@
+
+
+  .bg {
+    background-image: url("https://us.123rf.com/450wm/yuliyagontar/yuliyagontar1603/yuliyagontar160300314/54733071-top-view-of-ingredients-for-cooking-tomatoes-garlic-pepper-lemon-salad-leaves-olives-olive-oil-on-da.jpg?ver=6");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: lightblue;
+    font-family:'Brush Script MT', cursive;
+    font-size: 20pt;
+  }
+
+  #food-input {  
+    position: absolute;
+    top: 200px;
+    left: 5px;
+
+  }
